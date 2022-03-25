@@ -23,9 +23,9 @@
     "prettier": "prettier --write '{cloud,spec}/{**/*,*}.js' 'index.js'",
     "watch": "babel-watch index.js"
   },
-  "engines": {
-    "node": "<17"
-    "npm": "8.0.0"
+    "engines": {
+    "node": "<17",
+     "npm": "8.0.0"
   },
   "devDependencies": {
     "babel-eslint": "10.1.0",
