@@ -23,7 +23,7 @@
     "prettier": "prettier --write '{cloud,spec}/{**/*,*}.js' 'index.js'",
     "watch": "babel-watch index.js"
   },
-  "engines": {
+  "node.js": {
     "node": "<17"
     "npm": "8.0.0"
   },
